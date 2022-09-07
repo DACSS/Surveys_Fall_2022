@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about/about.html",
+    "href": "about/about.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "##Instructions"
+  },
+  {
+    "objectID": "about/about.html#educationwork-background",
+    "href": "about/about.html#educationwork-background",
+    "title": "Your Name",
+    "section": "Education/Work Background",
+    "text": "Education/Work Background"
+  },
+  {
+    "objectID": "about/about.html#r-experience",
+    "href": "about/about.html#r-experience",
+    "title": "Your Name",
+    "section": "R experience",
+    "text": "R experience"
+  },
+  {
+    "objectID": "about/about.html#research-interests",
+    "href": "about/about.html#research-interests",
+    "title": "Your Name",
+    "section": "Research interests",
+    "text": "Research interests"
+  },
+  {
+    "objectID": "about/about.html#hometown",
+    "href": "about/about.html#hometown",
+    "title": "Your Name",
+    "section": "Hometown",
+    "text": "Hometown"
+  },
+  {
+    "objectID": "about/about.html#hobbies",
+    "href": "about/about.html#hobbies",
+    "title": "Your Name",
+    "section": "Hobbies",
+    "text": "Hobbies"
+  },
+  {
+    "objectID": "about/about.html#fun-fact",
+    "href": "about/about.html#fun-fact",
+    "title": "Your Name",
+    "section": "Fun fact",
+    "text": "Fun fact"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Contributors",
+    "section": "",
+    "text": "Your Name\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DACSS Survey Research Design and Analysis",
+    "section": "",
+    "text": "example: The blog posts here are contributed by students enrolled in DACSS 601, Fundamentals of Data Science. The course provides students with an introduction to R and the tidyverse, scientific publishing, and collaboration through GitHub, building a foundation for future coursework. Students also are introduced to general data management and data wrangling skills, with an emphasis on best practice workflows and tidy data management.\nYou can remove the example after adding the title and the course description\n\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
