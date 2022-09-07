@@ -1,5 +1,5 @@
 ---
-title: "DACSS [Course Number] [Course Name] [term]"
+title: "DACSS Survey Research Design and Analysis"
 listing:
   contents: posts
   sort: "date desc"
